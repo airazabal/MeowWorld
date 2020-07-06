@@ -1,1 +1,1 @@
-DOTNET_STARTUP_PROJECT=project.json
+DOTNET_STARTUP_PROJECT=MeowWorld.xproj
